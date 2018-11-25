@@ -119,6 +119,11 @@ Minor features
 :mod:`django.contrib.syndication`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+:mode:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new :func:`django.shortcuts.make_toast` funtion returns ``'toast'``
+
 * ...
 
 Cache
